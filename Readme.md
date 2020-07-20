@@ -5,7 +5,7 @@ In this project we will try to detect the frauds in the transactions.
 2. seaborn
 3. sklearn
 4. matplotlib
-## Dataset
+## Dataset:
 you can download the dataset from [here](https://www.kaggle.com/mlg-ulb/creditcardfraud/ )
 ## Code:
 The `creditcard_fraud_detection.py` contains the code.
