@@ -17,8 +17,8 @@ The `creditcard_fraud_detection.py` contains the code.
 4. try to produce a correlation matrix which will help in finding the features important for making predictions.
 5. divide the dataset into two objects one having the transcations only and other having the verdict of the transactions(this will be used to test the accuracy later).
 6. divide the dataset into testing and training dataset using the two objects created.
-7. train the random forest model and then test it.
-8. find the accuracy of the model by comparing it with second second object created above.
+7. train the model and then test it.
+8. find the accuracy of the model by comparing it with second object created above.
 
 ## Methodology:
 1. import the dataset.
