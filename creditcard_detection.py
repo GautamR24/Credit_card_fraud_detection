@@ -54,7 +54,7 @@ yPred = rfc.predict(xTest)
 # calculating the accuracy score
 from sklearn.metrics import accuracy_score  
 acc = accuracy_score(yTest, yPred) 
-print("The accuracy is {}".format(acc)) 
+print("The accuracy is",acc)
   
 
 
